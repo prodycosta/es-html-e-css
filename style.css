@@ -1,0 +1,64 @@
+
+.logo{
+    width: 170px;
+    margin: auto;
+    display: block;
+    margin: 0px auto;
+    text-align: center;
+    margin-top: 150px;
+}
+h2{
+    color: lime;
+    margin: auto;
+    display: block;
+    text-align: center;
+    margin-left: 50px;
+}
+nav{
+    background-color: lime;
+    margin-left: 350px;
+    margin-right: 350px;
+    text-align: center;
+    font-size:xx-large;
+    
+    
+}
+body{
+    background-image:url("background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.all{
+    background-color:rgba(62, 62, 62, 0.541);
+    border-radius: 20px;
+
+   
+    
+       
+}
+main{
+    color: white;
+    font-size: medium;
+    margin-left: 350px;
+}
+span{
+    font-size: 25px;    
+}
+.giallo, .verde, .rosso{
+    height: 25px;
+    border-radius: 30px;
+    
+}
+.giallo{
+    width: 300px;
+    background-color: yellow;
+}
+.verde{
+    
+    width: 500px;
+    background-color: lawngreen;
+}
+.rosso{
+    width: 150px;
+    background-color: red;
+}
